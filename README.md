@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About This Repository
+### 👨‍💻 About This Repository
 
 Welcome to my SQL problem-solving journey!
 
@@ -35,7 +35,7 @@ This repository documents my progress in **SQL and database query optimization f
 | 07 | 🧠 Advanced SQL | CTEs, window functions, ranking |
 | 08 | 🏆 Problem Solving | Multi-step queries and edge cases |
 
-## 📂 Repository Structure
+### 📂 Repository Structure
 
 ```text
 HackerRank-SQL-Solutions/
@@ -56,7 +56,7 @@ HackerRank-SQL-Solutions/
 
 *The directory structure evolves as new challenges are completed.*
 
-## 📈 Progress Tracker
+### 📈 Progress Tracker
 
 I use this repository to maintain a record of completed challenges and revisit concepts whenever needed.
 
@@ -71,7 +71,7 @@ I use this repository to maintain a record of completed challenges and revisit c
 
 > **Note:** This is a learning roadmap, not a live HackerRank progress feed. Categories are updated manually as I solve challenges.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
@@ -85,7 +85,7 @@ I use this repository to maintain a record of completed challenges and revisit c
 - **Version control:** Git
 - **Repository hosting:** GitHub
 
-## 💡 My Approach
+### 💡 My Approach
 
 - ✅ Understand the problem before writing the query.
 - ✅ Write readable and structured SQL.
@@ -94,7 +94,7 @@ I use this repository to maintain a record of completed challenges and revisit c
 - ✅ Review previous problems and improve my approach.
 - ✅ Commit solutions regularly to document progress.
 
-## 🎯 What's Next?
+### 🎯 What's Next?
 
 - [ ] Complete the Basic SELECT challenges.
 - [ ] Strengthen aggregation and grouping concepts.
@@ -103,7 +103,7 @@ I use this repository to maintain a record of completed challenges and revisit c
 - [ ] Explore window functions and ranking.
 - [ ] Solve more complex database problems.
 
-## 🔗 Find Me Online
+### 🔗 Find Me Online
 
 <p align="center">
   <a href="https://github.com/yogagowda57-spec">
