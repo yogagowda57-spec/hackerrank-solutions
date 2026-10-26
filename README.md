@@ -1,4 +1,4 @@
-## ⚡ HackerRank SQL Solutions
+###⚡ HackerRank SQL Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
