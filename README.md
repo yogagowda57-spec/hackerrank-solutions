@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About This Repository
 
-Welcome to my SQL problem-solving journey!
+Welcome to my SQL problem-solving journey(HACKER RANK)!
 
 This repository documents my progress in **SQL and database query optimization fundamentals** through HackerRank challenges. Each solution represents a step toward strengthening my logical thinking, analytical skills, and understanding of relational databases.
 
