@@ -12,7 +12,7 @@
   A growing collection of SQL solutions developed through hands-on practice on HackerRank.
 </p>
 
----
+-------
 
 ### 👨‍💻 About This Repository
 
@@ -25,7 +25,7 @@ This repository documents my progress in **SQL and database query optimization f
 ## 🗺️ Learning Roadmap
 
 | # | Topic | Concepts |
-|---|---|---|
+|----|----|----|
 | 01 | 🟢 Basic SELECT | `SELECT`, `WHERE`, `DISTINCT` |
 | 02 | 🔍 Filtering & Sorting | `AND`, `OR`, `ORDER BY`, `LIMIT` |
 | 03 | 📊 Aggregation | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` |
