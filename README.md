@@ -63,9 +63,9 @@ I use this repository to maintain a record of completed challenges and revisit c
 | Category | Progress |
 |---|---|
 | Basic SELECT | 🚀 In Progress |
-| Advanced SELECT | 🔜 Upcoming |
-| Aggregation | 🔜 Upcoming |
-| Basic JOIN | 🔜 Upcoming |
+| Advanced SELECT | 🚀 In Progress |
+| Aggregation | 🚀 In Progress |
+| Basic JOIN | 🚀 In Progress|
 | Advanced JOIN | 🔜 Upcoming |
 | Advanced SQL | 🔜 Upcoming |
 
