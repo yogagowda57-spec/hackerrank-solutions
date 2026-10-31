@@ -14,7 +14,7 @@
 
 -------
 
-### 👨‍💻 About This Repository
+### 👨‍💻 About Repository
 
 Welcome to my SQL problem-solving journey(HACKER RANK)!
 
